@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Beginning the compilation of control_GPIO"
+
+g++ control_GPIO.cpp -o control_GPIO
+
+echo "Compiling completed"
